@@ -1,0 +1,26 @@
+{
+  "name": "usqay",
+  "version": "1.0.0",
+  "description": "CLI for automate projects creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israel-gs/usqay.git"
+  },
+  "keywords": [
+    "automate"
+  ],
+  "author": "israel-gs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/israel-gs/usqay/issues"
+  },
+  "homepage": "https://github.com/israel-gs/usqay#readme",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "lowdb": "^1.0.0"
+  }
+}
