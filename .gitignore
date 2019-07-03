@@ -792,3 +792,6 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/node,java,python,webstorm,java-web,webstorm+all,intellij+all,visualstudio,visualstudiocode
+
+#db
+src/db.json
