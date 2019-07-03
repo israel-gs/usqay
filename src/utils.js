@@ -4,7 +4,7 @@ const low = require('lowdb')
 const FileSync = require('lowdb/adapters/FileSync')
 const packageInfo = JSON.parse(fs.readFileSync(join(__dirname, '..', 'package.json'), { encoding: 'utf-8' }))
 const Octokit = require('@octokit/rest')
-const adapter = new FileSync('src/db.json')
+const adapter = new FileSync(join(__dirname, 'db.json'))
 const db = low(adapter)
 
 db.defaults({

@@ -4,8 +4,14 @@ Powerfull tool for atomate project creation, inpired on [@KalleHallden](https://
 
 > **usqay** means **fast** in the [Quechua](https://es.wikipedia.org/wiki/Lenguas_quechuas) language.
 
-## Quick Overview
+## Installation
+
+```
+npm install -g usqay
+```
 
 ## Config
+
+
 
 ## Creating a project
