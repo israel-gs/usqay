@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/israel-gs/usqay#readme",
   "dependencies": {
+    "@octokit/rest": "^16.28.2",
     "commander": "^2.20.0",
     "lowdb": "^1.0.0"
   }
