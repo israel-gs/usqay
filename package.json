@@ -1,6 +1,6 @@
 {
   "name": "usqay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI for automate projects creation",
   "main": "index.js",
   "scripts": {
